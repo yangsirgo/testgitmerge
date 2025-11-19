@@ -1,0 +1,5 @@
+[
+  { "id": 1, "label": "首页", "path": "/home" },
+  { "id": 2, "label": "用户管理", "path": "/users" },
+  { "id": 3, "label": "设置", "path": "/settings" }
+]
